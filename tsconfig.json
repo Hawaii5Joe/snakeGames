@@ -6,7 +6,7 @@
       "es6",
       "dom"
     ],
-    "jsx": "preserve",
+    "jsx": "react",
     "outDir": "lib",
     "rootDir": "src",
     "strict": true,
@@ -21,6 +21,6 @@
     "noEmit": true
   },
   "include": [
-    "src"
+    "src/**/*"
   ]
 }
