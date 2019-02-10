@@ -6,7 +6,7 @@
       "es6",
       "dom"
     ],
-    "jsx": "react",
+    "jsx": "preserve",
     "outDir": "lib",
     "rootDir": "src",
     "strict": true,
